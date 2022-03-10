@@ -2,6 +2,4 @@ Title:
 Political Misinformation on Reddit
 
 Abstract:
-In this project, we investigate the dissemination and characterization of misinformation spread on the online discussion site Reddit, looking specifically at a large subset of randomly selected American political subreddits using the Reddit API.
-
-By taking advantage of Reddit’s hierarchical structure of subreddits, moderators, users, posts, and comments, we hope to replicate the investigation on the spread of misinformation on Twitter (from Q1) with a similar investigation on the spread of political misinformation on Reddit in the years 2020 and 2021.
+In this paper, we collect posts from 28 political subreddits over a two year period and analyze the spread of misinformation in outgoing links. We categorize misinformation using a compiled list of untrustworthy domains, and use the resulting data to create networks of users and subreddits showing the spread of misinformation. Additionally, we utilize natural language processing techniques to analyze the sentiment of comments on posts with respect to whether the post contained misinformation. We compare our findings to a paper analyzing the spread of misinformation through twitter users.
